@@ -32,6 +32,12 @@ WebSocket	<-  cocos2dx::network::Websocket <- libwebsocket
 
 SocketIO	<-  cocos2dx::network::Websocket <- libwebsocket
 ```
+## Scripts
+
+1. hook_offset.ts -- hook for certain address with offset.
+2. hook_export.ts -- hook for export functions.
+3. hook_send.ts -- hook for send funcitons.
+
 
 ## Class Memory Layout
 Ambiguous memory layout defines in cocos2djs.h 
